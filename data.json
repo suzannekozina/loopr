@@ -1,0 +1,103 @@
+{
+    "collection": [
+        {
+            "category": "Counting",
+            "description": "Contains learning objectives pertaining to counting",
+            "grade-range": "K-5",
+            "lobjectives": [
+                {
+                    "id": "COU1",
+                    "objective": "Count up to 20",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": "K.CC.5",
+                        "grade-1": " ",
+                        "grade-2": " ",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "COU2",
+                    "objective": "Count within 120",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": "K.CC.3",
+                        "grade-1": "1.NBT.1",
+                        "grade-2": " ",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Comparison",
+            "description": "Contains learning objectives pertaining to comparison",
+            "grade-range": "K-5",
+            "lobjectives": [
+                {
+                    "id": "COM1",
+                    "objective": "Determine if numbers 0 - 20 are odd or even",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": "2.OA.3",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "COM2",
+                    "objective": "Compare two 1-digit numbers using comparison symbols",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": "1.OA.7",
+                        "grade-2": " ",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Time",
+            "description": "Contains learning objectives pertaining to time",
+            "grade-range": "K-5",
+            "lobjectives": [
+                {
+                    "id": "TIM1",
+                    "objective": "Tell time on a clock to hour and half-hour intervals",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": "1.MD.3",
+                        "grade-2": " ",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "TIM2",
+                    "objective": "Tell time on a clock to 5 minute intervals",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": "2.MD.7",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+Counting
+Comparison
+Time
+********************************************
+3
+
+Counting
+Count up to 20
+Count within 120
+********************************************
+Comparison
+Determine if numbers 0 - 20 are odd or even
+Compare two 1-digit numbers using comparison symbols
+********************************************
+Time
+Tell time on a clock to hour and half-hour intervals
+Tell time on a clock to 5 minute intervals
+********************************************
+Total number of objectives in collection: 6
+********************************************
+
