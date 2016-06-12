@@ -1,21 +1,31 @@
+*********LIST COLLECTION CATEGORIES*********
 Counting
 Comparison
 Time
 ********************************************
-3
+Total number of categories in collection: 3
+============================================
+    
 
-Counting
+*********LIST COLLECTION OBJECTIVES*********
+Category: Counting
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Count up to 20
 Count within 120
 ********************************************
-Comparison
+    
+Category: Comparison
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Determine if numbers 0 - 20 are odd or even
 Compare two 1-digit numbers using comparison symbols
 ********************************************
-Time
+    
+Category: Time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Tell time on a clock to hour and half-hour intervals
 Tell time on a clock to 5 minute intervals
 ********************************************
+    
 Total number of objectives in collection: 6
-********************************************
+=============================================================
 

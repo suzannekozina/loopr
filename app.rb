@@ -8,27 +8,33 @@ require 'json'
   end
 
   def category_list
+    puts"*********LIST COLLECTION CATEGORIES*********"
     $collection_hash["collection"].each do |category|
   		puts category["category"]
     end
   	puts "********************************************"
-  	puts $collection_hash["collection"].length
+    puts "Total number of categories in collection: #{$collection_hash["collection"].length}"
+  	puts "============================================
+    "
   end
 
 
 def objective_list
+  puts "*********LIST COLLECTION OBJECTIVES*********"
   total_objectives = 0
   $collection_hash["collection"].each do |lobjectives|
-    puts lobjectives["category"]
+    puts "Category: #{lobjectives["category"]}"
+    puts "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
     lobjectives["lobjectives"]
       lobjectives["lobjectives"].each do |objective|
         puts objective["objective"]
         total_objectives += 1
       end
-    puts "********************************************"
+    puts "********************************************
+    "
   end
   puts "Total number of objectives in collection: #{total_objectives}"
-  puts "********************************************"
+  puts "============================================================="
 end
 
 
