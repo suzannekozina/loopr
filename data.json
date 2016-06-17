@@ -30,6 +30,58 @@
                         "grade-4": " ",
                         "grade-5": " "
                     }
+                },
+                {
+                    "id": "COU3",
+                    "objective": "Count within 1,000",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": "K.CC.1, K.CC.2",
+                        "grade-1": " ",
+                        "grade-2": "2.NBT.2",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "COU4",
+                    "objective": "Skip-count by 5s; up to 100",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": "2.NBT.2",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "COU5",
+                    "objective": "Skip-count by 10s; up to 120",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": "2.NBT.2",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "COU6",
+                    "objective": "Skip-count by 100s; up to 1,200",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": "2.NBT.2",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
                 }
             ]
         },
@@ -54,6 +106,45 @@
                 {
                     "id": "COM2",
                     "objective": "Compare two 1-digit numbers using comparison symbols",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": "1.OA.7",
+                        "grade-2": " ",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "COM3",
+                    "objective": "Compare two 2-digit numbers using comparison symbols",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": "1.NBT.3",
+                        "grade-2": " ",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "COM4",
+                    "objective": "Compare two 3-digit numbers using comparison symbols",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": "2.NBT.4",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "COM5",
+                    "objective": "Compare two algebraic expressions with 1-digit numbers using comparison symbols",
                     "commit-date": "2016-01-12",
                     "ccss-mapping": {
                         "grade-K": " ",
@@ -92,6 +183,51 @@
                         "grade-K": " ",
                         "grade-1": " ",
                         "grade-2": "2.MD.7",
+                        "grade-3": " ",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },
+                {
+                    "id": "TIM2",
+                    "objective": "Tell and write time to the nearest minute, including am and pm",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": " ",
+                        "grade-3": "3.MD.1",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                },{
+                    "id": "TIM4",
+                    "objective": "Solve word problems with time",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": " ",
+                        "grade-3": "3.MD.1",
+                        "grade-4": " ",
+                        "grade-5": " "
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Money",
+            "description": "Contains learning objectives pertaining to money",
+            "grade-range": "K-5",
+            "lobjectives": [
+                {
+                    "id": "MON1",
+                    "objective": "Know the value of individual coins",
+                    "commit-date": "2016-01-12",
+                    "ccss-mapping": {
+                        "grade-K": " ",
+                        "grade-1": " ",
+                        "grade-2": "Name the coins",
                         "grade-3": " ",
                         "grade-4": " ",
                         "grade-5": " "
